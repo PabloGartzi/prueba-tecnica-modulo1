@@ -17,7 +17,7 @@ Objetivo: entregar una versión corregida y mejorada de la pequeña aplicación 
 
 ## Requisitos operativos:
 - La aplicación debe permitir añadir, listar y eliminar contactos correctamente desde el navegador.
-- Debes incluir una breve justificación de los cambios en un archivo `CHANGES.md` o en la descripción del PR.
+- Debes incluir una breve justificación de los cambios en un archivo `CHANGES.md`.
 
 ## Comandos y ejecución:
 - Abrir `module-1/index.html` en el navegador para inspeccionar el funcionamiento.

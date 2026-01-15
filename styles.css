@@ -12,6 +12,3 @@ body {
     padding: 6px;
     border-bottom: 1px solid #eee;
 }
-
-/* MALAS PRÁCTICAS: estilos en IDs rígidos y sin variables CSS */
-/* SOLUCIÓN: usar clases reutilizables y variables CSS para temas */
