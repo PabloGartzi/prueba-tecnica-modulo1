@@ -1,14 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 24px;
 }
 
-#list {
+.list {
     padding-left: 0;
 }
 
-#list li {
+.list li {
     list-style: none;
     padding: 6px;
     border-bottom: 1px solid #eee;
 }
+
